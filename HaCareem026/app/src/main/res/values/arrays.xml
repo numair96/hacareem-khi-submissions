@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cities">
+        <item>Karachi</item>
+        <item>Lahore</item>
+        <item>Islamabad</item>
+        <item>Faisalabad</item>
+        <item>Rawalpindi</item>
+    </array>
+</resources>

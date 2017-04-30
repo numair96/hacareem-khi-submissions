@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HaCareem026</string>
+    <string name="name">HaCareem</string>
+    <string name="desc">HaCareem Team 026</string>
+
+    <!-- Side Menu -->
+    <string name="item_dashboard">Dashboard</string>
+    <string name="item_settings">Settings</string>
+
+    <!-- Tab View -->
+    <string name="tab_pickup">Pick Up</string>
+    <string name="tab_drop_off">Drop Off</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="txt_next">Next</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_goto_settings">Go To Settings</string>
+    <string name="txt_location_title">Need location services</string>
+    <string name="txt_location_msg">HaCareem would like to use your location. Please enable location services.</string>
+
+    <string name="txt_google_calendar">Fetch data from Google Calendar.</string>
+    <string name="txt_facebook_calendar">Fetch data from Facebook.</string>
+
+</resources>
